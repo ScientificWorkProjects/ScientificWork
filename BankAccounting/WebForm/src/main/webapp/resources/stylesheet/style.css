@@ -1,0 +1,77 @@
+
+.slide-panel {
+    display: none;
+}
+
+#body{
+    margin: 0 auto;
+    display: block;
+    width: 980px;
+}
+
+.navbar:hover .header-menu:hover {
+    background-color: #2aa32a;
+    color: #ffffff;
+}
+
+#slide {
+    padding: 0;
+    display: block;
+    width: 100%;
+    margin: 15px auto;
+}
+
+textarea{
+    width: 300px;
+    max-width: 300px;
+}
+
+#footer-links {
+    display: block;
+    float: none;
+    outline: 1px solid white;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.buttonpanel .btn-slide {
+    text-indent: -9000%;
+    display: block;
+    height: 265px;
+    width:38px;
+}
+
+.container{
+    outline: 1px solid white;
+}
+
+.right{
+    float: right;
+}
+
+#addButton{
+    margin-left: 20%;
+
+}
+
+.table-lable{
+    width: 250px;
+    float: left;
+}
+
+#credit-info-container{
+    float: left;
+}
+
+#credit-info-buttons{
+    display: block;
+}
+
+input {
+    margin-right: 5px;
+}
+
+.sendAllButton{
+    margin: 0 auto;
+    display: block;
+}
