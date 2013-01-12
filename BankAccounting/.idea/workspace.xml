@@ -2,28 +2,104 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fdc8a34-842a-4e61-97c8-3712a7c2633f" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Zamula\Documents\GitHub\ScientificWork\BankAccounting\BankAccounting.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Zamula\Documents\GitHub\ScientificWork\BankAccounting\WebForm\WebForm.iml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dss/dto/AllUserInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beans/Beans.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beans/src/main/java/com/dss/data/bean/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beans/src/main/java/com/dss/data/bean/ClientHistory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beans/src/main/java/com/dss/data/bean/CreditDeal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beans/src/main/java/com/dss/data/bean/CreditExpert.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beans/src/main/java/com/dss/data/bean/CreditOperation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GatewayAgent/GatewayAgent.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KBAAgent/KBAAgent.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KETLAgent/KETLAgent.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_1_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_1_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__postgresql_postgresql_9_1_901_jdbc4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dss/dto/UserForm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dss/controller/UserFormController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dss/service/UserFormService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Zamula.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebForm/src/main/webapp/WEB-INF/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebForm/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/jslint.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mybatis.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beans/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GatewayAgent/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KBAAgent/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KETLAgent/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/view.js" />
+      <change type="DELETED" beforePath="C:\Users\Zamula\Documents\GitHub\ScientificWork\BankAccounting\.idea\libraries\Maven__junit_junit_3_8_1.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankAccounting.iml" afterPath="$PROJECT_DIR$/BankAccounting.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebForm/WebForm.iml" afterPath="$PROJECT_DIR$/WebForm/WebForm.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/WebForm_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/WebForm_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/application.js" afterPath="$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/controller.js" afterPath="$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebForm/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/WebForm/src/main/webapp/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/model.js" afterPath="$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/model.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebForm/pom.xml" afterPath="$PROJECT_DIR$/WebForm/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebForm/src/main/webapp/resources/stylesheet/style.css" afterPath="$PROJECT_DIR$/WebForm/src/main/webapp/resources/stylesheet/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebForm/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/WebForm/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BankAccounting.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.jsp" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357759641795" ignored="false" />
+    <file path="/index.jsp" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1358019094843" ignored="false" />
     <file path="/DummyFile.xpath" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357483359487" ignored="false" />
     <file path="/file.as" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357483521698" ignored="false" />
-    <file path="/application.js" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357777226168" ignored="false" />
-    <file path="/controller.js" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357778464286" ignored="false" />
+    <file path="/application.js" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1358017907184" ignored="false" />
+    <file path="/controller.js" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1358019391178" ignored="false" />
     <file path="$PROJECT_DIR$/../../Service/chat-service/Web/src/main/webapp/js/chatview.js" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357606270254" ignored="false" />
-    <file path="/style.css" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357759667282" ignored="false" />
+    <file path="/style.css" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1358018474933" ignored="false" />
     <file path="$PROJECT_DIR$/../../Service/webmodule/package.json" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357612173131" ignored="false" />
-    <file path="/Dummy.txt" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357780094550" ignored="false" />
+    <file path="/Dummy.txt" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1358031566602" ignored="false" />
     <file path="$PROJECT_DIR$/../../ChatService/MySql/pom.xml" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357638787027" ignored="false" />
     <file path="$PROJECT_DIR$/../../ChatService/MySql/.idea/workspace.xml" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357638849109" ignored="false" />
     <file path="$PROJECT_DIR$/../../ChatService/MySql/.idea/modules.xml" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357638849109" ignored="false" />
     <file path="$PROJECT_DIR$/../../ChatService/MySql/.idea/misc.xml" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357638849109" ignored="false" />
     <file path="$PROJECT_DIR$/../../ChatService/MySql/.idea/compiler.xml" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357638849109" ignored="false" />
-    <file path="/fragment.java" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357639118131" ignored="false" />
+    <file path="/fragment.java" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357939566480" ignored="false" />
     <file path="$PROJECT_DIR$/../../ChatService/MySqlTest/src/main/java/SqlDBSimpleTestConnector.java" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357639029571" ignored="false" />
     <file path="$PROJECT_DIR$/../../ChatService/MySqlTest/src/main/java/MySqlSimpleOperationsTest.java" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357639953656" ignored="false" />
+    <file path="/pom.xml" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357924159620" ignored="false" />
+    <file path="/Client.java" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357925960328" ignored="false" />
+    <file path="/CreditExpert.java" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357922318222" ignored="false" />
+    <file path="/ClientHistory.java" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357922678509" ignored="false" />
+    <file path="/CreditOperation.java" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357922817852" ignored="false" />
+    <file path="/CreditDeal.java" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357923128099" ignored="false" />
+    <file path="/dispatcher-servlet.xml" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357923723520" ignored="false" />
+    <file path="/web.xml" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357924476136" ignored="false" />
+    <file path="/dummy.xml" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357924295913" ignored="false" />
+    <file path="/model.js" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1358009886170" ignored="false" />
+    <file path="/Service.java" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357936188146" ignored="false" />
+    <file path="/UserFormController.java" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357939660630" ignored="false" />
+    <file path="/UserFormService.java" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1357939517311" ignored="false" />
+    <file path="/a.dummy" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1358008050007" ignored="false" />
+    <file path="/service.js" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1358018970352" ignored="false" />
+    <file path="/view.js" changelist="7fdc8a34-842a-4e61-97c8-3712a7c2633f" time="1358018644037" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +124,6 @@
     <sortChildren value="false" />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -83,6 +158,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -92,55 +168,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebForm/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="18" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="35" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
+            <state line="898" column="61" selection-start="32614" selection-end="32614" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/lib/jquery.js">
+      <file leaf-file-name="view.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/view.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9012" column="0" selection-start="252776" selection-end="252776" vertical-scroll-proportion="0.030520646">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/application.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="19" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
+            <state line="12" column="27" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -149,27 +189,84 @@
       <file leaf-file-name="controller.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="1" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0">
+            <state line="58" column="75" selection-start="1437" selection-end="1437" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="model.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/model.js">
+      <file leaf-file-name="service.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/service.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="20" selection-start="152" selection-end="152" vertical-scroll-proportion="0.0">
+            <state line="13" column="36" selection-start="487" selection-end="487" vertical-scroll-proportion="0.70666665">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/resources/stylesheet/style.css">
+      <file leaf-file-name="application.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="19" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
+            <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1358019620237" expanded="false" signature="30:603" placeholder="{...}" />
+                <marker date="1358019620237" expanded="false" signature="206:446" placeholder="{&quot;slideNextControl&quot;: &quot;next&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserFormController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dss/controller/UserFormController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="26" selection-start="641" selection-end="641" vertical-scroll-proportion="0.0">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mybatis.config" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dispatcher-servlet.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/WEB-INF/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/WEB-INF/web.xml">
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="22" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+            <state />
           </provider>
         </entry>
       </file>
@@ -198,18 +295,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/WebForm/pom.xml" />
-        <option value="$PROJECT_DIR$/WebForm/src/main/joo/file.as" />
-        <option value="$PROJECT_DIR$/WebForm/src/main/resources/application.js" />
-        <option value="$PROJECT_DIR$/WebForm/src/main/resources/js/application.js" />
-        <option value="$PROJECT_DIR$/WebForm/src/main/resources/js/controller.js" />
-        <option value="$PROJECT_DIR$/WebForm/src/main/resources/stylesheet/style.css" />
+        <option value="$PROJECT_DIR$/WebForm/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/Beans/src/main/java/com/dss/data/bean/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis.config" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dss/service/Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dss/service/UserFormService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dss/dto/UserForm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dss/dto/AllUserInfo.java" />
+        <option value="$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/model.js" />
+        <option value="$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/view.js" />
         <option value="$PROJECT_DIR$/WebForm/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/WebForm/src/main/webapp/resources/stylesheet/style.css" />
-        <option value="$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/application.js" />
-        <option value="$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/lib/model.js" />
         <option value="$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/controller.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dss/controller/UserFormController.java" />
+        <option value="$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/application.js" />
+        <option value="$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/service.js" />
       </list>
     </option>
   </component>
@@ -219,6 +320,13 @@
     <option name="FILTER_INFO" value="true" />
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -231,10 +339,27 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="754" />
+    <option name="x" value="273" />
+    <option name="y" value="123" />
+    <option name="width" value="819" />
+    <option name="height" value="492" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Error handling</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -245,7 +370,7 @@
     <OptionsSetting value="true" id="Edit" />
     <OptionsSetting value="true" id="Undo Check Out" />
     <OptionsSetting value="true" id="Get Latest Version" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -264,6 +389,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -458,25 +585,257 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KBAAgent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Beans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Beans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Beans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankAccounting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Beans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="Settings.JavaScript.Linters.JSLint" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zamula\Documents\GitHub\ScientificWork\BankAccounting\WebForm\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\Zamula\Documents\GitHub\ScientificWork\BankAccounting\src\main\resources" />
+      <recent name="C:\Users\Zamula\Documents\GitHub\ScientificWork\BankAccounting\WebForm\src\main\webapp\resources" />
       <recent name="C:\Users\Zamula\IdeaProjects\BankAccounting\WebForm\src\main\webapp\resources\js\lib" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.dss.dto" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Zamula\Documents\GitHub\ScientificWork\BankAccounting\WebForm\src\main\webapp\resources\js" />
@@ -698,34 +1057,34 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <frame x="273" y="123" width="819" height="492" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.67147434" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.6858974" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.8258824" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24924242" sideWeight="0.6885522" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30838323" sideWeight="0.44813615" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.6858974" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.8258824" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28768232" sideWeight="0.14352942" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19124797" sideWeight="0.6858974" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28484848" sideWeight="0.9141414" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.08562197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24042273" sideWeight="0.6916168" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31058824" sideWeight="0.5461913" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298122" sideWeight="0.49675852" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31410256" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.49675852" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -792,121 +1151,122 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/application.js">
+    <entry file="file://$PROJECT_DIR$/Beans/src/main/java/com/dss/data/bean/CreditDeal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="3" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0">
+        <state line="5" column="13" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Beans/src/main/java/com/dss/data/bean/CreditOperation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0">
+        <state line="3" column="13" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebForm/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Beans/src/main/java/com/dss/data/bean/ClientHistory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="38" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
+        <state line="5" column="13" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/index.jsp">
+    <entry file="file://$PROJECT_DIR$/Beans/src/main/java/com/dss/data/bean/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="501" column="24" selection-start="19098" selection-end="19098" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebForm/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="18" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/phrase.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="4" selection-start="1089" selection-end="1110" vertical-scroll-proportion="0.33266532">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/common.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="23" selection-start="3266" selection-end="3271" vertical-scroll-proportion="0.33266532" />
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/web-forms2.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="404" column="16" selection-start="9201" selection-end="9202" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="19" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/resources/stylesheet/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="19" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="35" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
+        <state line="18" column="23" selection-start="381" selection-end="381" vertical-scroll-proportion="0.33116883">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/model.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="20" selection-start="152" selection-end="152" vertical-scroll-proportion="0.0">
+        <state line="13" column="28" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/resources/stylesheet/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="1" selection-start="857" selection-end="857" vertical-scroll-proportion="-6.96" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="27" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="1" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0">
+        <state line="58" column="75" selection-start="1437" selection-end="1437" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/lib/jquery.js">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dss/controller/UserFormController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9012" column="0" selection-start="252776" selection-end="252776" vertical-scroll-proportion="0.030520646">
+        <state line="21" column="26" selection-start="641" selection-end="641" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/WEB-INF/web.xml">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="22" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="898" column="61" selection-start="32614" selection-end="32614" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1358019620237" expanded="false" signature="30:603" placeholder="{...}" />
+            <marker date="1358019620237" expanded="false" signature="206:446" placeholder="{&quot;slideNextControl&quot;: &quot;next&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebForm/src/main/webapp/resources/js/service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="36" selection-start="487" selection-end="487" vertical-scroll-proportion="0.70666665">
           <folding />
         </state>
       </provider>

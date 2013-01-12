@@ -71,7 +71,22 @@ input {
     margin-right: 5px;
 }
 
-.sendAllButton{
+#sendAllButton{
     margin: 0 auto;
     display: block;
 }
+
+.container {
+    max-width: 800px;
+    float: none;
+    margin: 0 auto;
+}
+
+
+#error-box{
+    display: none;
+}
+#success-box{
+    display: none;
+}
+label.error { float: inherit; color: red; padding-left: .5em; vertical-align: top;}

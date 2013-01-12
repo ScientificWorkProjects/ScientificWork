@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BankAccounting.iml" filepath="$PROJECT_DIR$/BankAccounting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Beans/Beans.iml" filepath="$PROJECT_DIR$/Beans/Beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GatewayAgent/GatewayAgent.iml" filepath="$PROJECT_DIR$/GatewayAgent/GatewayAgent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KBAAgent/KBAAgent.iml" filepath="$PROJECT_DIR$/KBAAgent/KBAAgent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KETLAgent/KETLAgent.iml" filepath="$PROJECT_DIR$/KETLAgent/KETLAgent.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebForm/WebForm.iml" filepath="$PROJECT_DIR$/WebForm/WebForm.iml" />
     </modules>
   </component>
